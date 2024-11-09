@@ -9,7 +9,7 @@ redirect_from:
 
 My name is **Zhenyu Wu (吴镇宇)**.
 
-I am a Ph.D. student at **College of Electronic and Information Engineering**, Southwest University, supervised by **Chuandong Li**.
+I am a Ph.D. student at College of Electronic and Information Engineering, **Southwest University**.
 
 Before that, I obtained my **Master's Degree** in Control Science from the **Guangdong University of Technology**.
 
@@ -21,8 +21,8 @@ Here are some of my [paper](#).
 
 I’m currently working on:
 
-- **mmWave radar Sensing** and its wide applications, with an emphasis on the **Autonomous driving field**.
-- **Super-Resolution & Signal Processing**, such as **DOA Estimation, SAR Radar Imaging**.
+- **mmWave radar sensing** and its wide applications, with an emphasis on the **autonomous driving field**.
+- **Super-resolution & signal srocessing**, such as **DOA estimation, SAR radar imaging**.
 
 ---
 
