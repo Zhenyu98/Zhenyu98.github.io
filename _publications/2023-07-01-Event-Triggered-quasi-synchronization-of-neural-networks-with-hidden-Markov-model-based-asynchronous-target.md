@@ -1,6 +1,7 @@
 ---
 title: "Event-Triggered quasi-synchronization of neural networks with hidden Markov model-based asynchronous target"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-07-01-Event-Triggered-quasi-synchronization-of-neural-networks-with-hidden-Markov-model-based-asynchronous-target
 date: 2023-07-01
 venue: 'Nonlinear Dynamics'

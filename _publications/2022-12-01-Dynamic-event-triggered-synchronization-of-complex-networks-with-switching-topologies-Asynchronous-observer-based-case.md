@@ -1,6 +1,7 @@
 ---
 title: "Dynamic event-triggered synchronization of complex networks with switching topologies: Asynchronous observer-based case"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-12-01-Dynamic-event-triggered-synchronization-of-complex-networks-with-switching-topologies-Asynchronous-observer-based-case
 date: 2022-12-01
 venue: 'Applied Mathematics and Computation'
