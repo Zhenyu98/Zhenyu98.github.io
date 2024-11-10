@@ -13,7 +13,6 @@ I am a Ph.D. student at College of Electronic and Information Engineering, **Sou
 
 Before that, I obtained my **Master's Degree** in Control Science from the **Guangdong University of Technology**.
 
-Here are some of my [paper](#).
 
 ---
 
@@ -26,5 +25,5 @@ I’m currently working on:
 
 ---
 
-📫 Welcome everyone to engage with me, my email address is  
+📫  I try to share my implementations here, but if you came across to my publications and couldn't find the codes, feel free to reach out. My email address is  
 [zheny_wu@163.com](mailto:zheny_wu@163.com)
