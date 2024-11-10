@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D. in Millimeter-Wave Intelligent Sensing, Southwest University, 2027 (expected)
+  * Supervisor: [Professor Chuandong Li](http://ceie.swu.edu.cn/info/1114/3985.htm)
+* M.S. in Control Science and Engineering, Guangdong University of Technology, 2023 
+* B.S. in Electronic Information Engineering, Leshan Normal University, 2020 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2018 - Jan 2019: Visiting Scholar
+  * Department of Atmospheric Science, National Central University
+  * Duties included: Studying radar signal processing and MST radar
+  * Supervisor: [Professor Yen-Hsyang Chu](https://scholars.ncu.edu.tw/zh/persons/yen-hsyang-chu)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* MATLAB
+  * mmWave radar data capture system
+  * super-resolution toolbox of FMCW radar
+* Python
+* Embedded system development
+  * mmWave radar toolbox of TI
+  * Ground-based SAR mmWave radar system
+  * IoT development with Raspberry Pi
 
 Publications
 ======
@@ -47,7 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -57,8 +49,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> 
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
