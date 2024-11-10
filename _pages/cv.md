@@ -14,7 +14,7 @@ Education
 * Ph.D. in Millimeter-Wave Intelligent Sensing, Southwest University, 2027 (expected)
   * Supervisor: [Professor Chuandong Li](http://ceie.swu.edu.cn/info/1114/3985.htm)
 * M.S. in Control Science and Engineering, Guangdong University of Technology, 2023 
-* B.S. in Electronic Information Engineering, Leshan Normal University, 2020 \
+* B.S. in Electronic Information Engineering, Leshan Normal University, 2020 
 
 Work experience
 ======
