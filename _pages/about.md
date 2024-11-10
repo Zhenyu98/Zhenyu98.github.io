@@ -21,7 +21,7 @@ Before that, I obtained my **Master's Degree** in Control Science from the **Gua
 I’m currently working on:
 
 - **mmWave radar sensing** and its wide applications, with an emphasis on the **autonomous driving field**.
-- **Super-resolution & signal srocessing**, such as **DOA estimation, SAR radar imaging**.
+- **Super-resolution & signal processing**, such as **DOA estimation, SAR radar imaging**.
 
 ---
 
